@@ -1,2 +1,2 @@
-hello ram 
-how's u?
+print("hello correction made")
+print(10+5)
